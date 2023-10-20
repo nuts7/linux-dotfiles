@@ -1,0 +1,11 @@
+configuration {
+	modi: "window,run,drun";
+	font: "DejaVu Sans Mono 12";
+	combi-modi: "window,drun,ssh";
+}
+@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+listview {
+	lines: 15;
+	columns: 3;
+}
+
